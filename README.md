@@ -9,14 +9,7 @@
    ![](https://img.shields.io/github/repo-size/shsarv/TravelYaari-react)
    ![](https://img.shields.io/tokei/lines/github/shsarv/TravelYaari-react?color=orange&logoColor=blue&style=flat-circle)
 
-This Project is live at --------> **[https://travelyaari.herokuapp.com](https://travelyaari.herokuapp.com)**
-
-***[Mentor: Pankaj Kapoor](https://github.com/pankkap)***
-
 <hr />
-
-      
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <details><summary>Available Scripts</summary>
 
@@ -178,19 +171,7 @@ phase-2 : ( 30 April 2021 - 10 May 2021 )
   8. Enter the `IP Address: http://localhost:3000` on a web browser and use the application. make sure that your backend api is running.
 
 
-### Dependencies <img src="https://www.flaticon.com/svg/static/icons/svg/2621/2621122.svg" width="24px">
 
-The following dependencies can be found in [package.json](https://github.com/shsarv/TravelYaari-react/blob/master/package.json):
-
-### Contributors <img src="https://www.flaticon.com/svg/static/icons/svg/1534/1534938.svg" width="24px">
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Kumar Sharma</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/shsarv/TravelYaari-react/commits?author=shsarv" title="Documentation">📖</a><a href="https://github.com/shsarv/TravelYaari-react/commits?author=shsarv" title="Code">💻</a></td>
-  <td align="center"><a href="https://github.com/sachi42"><img src="https://avatars.githubusercontent.com/u/61285008?v=4" width="100px;" alt=""/><br /><sub><b>Sachi Tripathi</b></sub></a><br /><a href="https://github.com/shsarv/TravelYaari-react/commits?author=sachi42" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/satyamjha1710"><img src="https://avatars.githubusercontent.com/u/61418608?v=4" width="100px;" alt=""/><br /><sub><b>Satyam Kumar Jha</b></sub></a><br /><a href="https://github.com/shsarv/TravelYaari-react/commits?author=satyamjha1710" title="Code">💻</a></td>
-   <tr>
-    <table>
       
 
 
